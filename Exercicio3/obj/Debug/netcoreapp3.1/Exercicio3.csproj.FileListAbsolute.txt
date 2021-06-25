@@ -1,0 +1,13 @@
+C:\Users\luscas\OneDrive\testeC#\Entra21-Projetos-Console\Exercicio3\bin\Debug\netcoreapp3.1\Exercicio3.exe
+C:\Users\luscas\OneDrive\testeC#\Entra21-Projetos-Console\Exercicio3\bin\Debug\netcoreapp3.1\Exercicio3.deps.json
+C:\Users\luscas\OneDrive\testeC#\Entra21-Projetos-Console\Exercicio3\bin\Debug\netcoreapp3.1\Exercicio3.runtimeconfig.json
+C:\Users\luscas\OneDrive\testeC#\Entra21-Projetos-Console\Exercicio3\bin\Debug\netcoreapp3.1\Exercicio3.runtimeconfig.dev.json
+C:\Users\luscas\OneDrive\testeC#\Entra21-Projetos-Console\Exercicio3\bin\Debug\netcoreapp3.1\Exercicio3.dll
+C:\Users\luscas\OneDrive\testeC#\Entra21-Projetos-Console\Exercicio3\bin\Debug\netcoreapp3.1\Exercicio3.pdb
+C:\Users\luscas\OneDrive\testeC#\Entra21-Projetos-Console\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.csproj.AssemblyReference.cache
+C:\Users\luscas\OneDrive\testeC#\Entra21-Projetos-Console\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.AssemblyInfoInputs.cache
+C:\Users\luscas\OneDrive\testeC#\Entra21-Projetos-Console\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.AssemblyInfo.cs
+C:\Users\luscas\OneDrive\testeC#\Entra21-Projetos-Console\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.csproj.CoreCompileInputs.cache
+C:\Users\luscas\OneDrive\testeC#\Entra21-Projetos-Console\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.dll
+C:\Users\luscas\OneDrive\testeC#\Entra21-Projetos-Console\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.pdb
+C:\Users\luscas\OneDrive\testeC#\Entra21-Projetos-Console\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.genruntimeconfig.cache

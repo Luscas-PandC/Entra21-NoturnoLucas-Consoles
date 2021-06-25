@@ -1,2 +1,2 @@
-# Entra21-NoturnoLucas-Consoles
-Projetos
+# Entra21-NoturnoLucas-ConsolesC-
+Projetos realizados no console do C#

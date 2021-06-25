@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Entra21-Projeto-Principal/1.0.0": {
+        "dependencies": {
+          "Exercicio1": "1.0.0",
+          "Exercicio2": "1.0.0",
+          "Exercicio3": "1.0.0"
+        },
+        "runtime": {
+          "Entra21-Projeto-Principal.dll": {}
+        }
+      },
+      "Exercicio1/1.0.0": {
+        "runtime": {
+          "Exercicio1.dll": {}
+        }
+      },
+      "Exercicio2/1.0.0": {
+        "runtime": {
+          "Exercicio2.dll": {}
+        }
+      },
+      "Exercicio3/1.0.0": {
+        "runtime": {
+          "Exercicio3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Entra21-Projeto-Principal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exercicio1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exercicio2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exercicio3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
