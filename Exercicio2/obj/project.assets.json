@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luscas\\Source\\Repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio2\\Exercicio2.csproj",
+      "projectUniqueName": "C:\\Users\\luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio2\\Exercicio2.csproj",
       "projectName": "Exercicio2",
-      "projectPath": "C:\\Users\\luscas\\Source\\Repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio2\\Exercicio2.csproj",
+      "projectPath": "C:\\Users\\luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio2\\Exercicio2.csproj",
       "packagesPath": "C:\\Users\\luscas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luscas\\Source\\Repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio2\\obj\\",
+      "outputPath": "C:\\Users\\luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luscas\\AppData\\Roaming\\NuGet\\NuGet.Config",
