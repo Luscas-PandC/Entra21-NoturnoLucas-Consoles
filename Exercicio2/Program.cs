@@ -18,6 +18,7 @@ namespace Exercicio2
             {
                 int escolha2 = 0;
                 int escolha3 = 0;
+                Console.Clear();
                 Console.WriteLine("=-= BEM-VINDO =-=\n");
                 Console.WriteLine("1- Nível 2: Estruturas Condicionais");
                 Console.WriteLine("2- Nível 3: Estrutura de Seleção");
@@ -47,7 +48,7 @@ namespace Exercicio2
 
                     Switch_Nivel2(escolha2);
 
-                    if (escolha2 != 13)
+                    if (escolha2 != 13 && escolha2 < 13)
                     {
                         while (Continuar() == 1)
                         {
@@ -70,7 +71,7 @@ namespace Exercicio2
 
                     Switch_Nivel3(escolha3);
 
-                    if (escolha3 == 3)
+                    if (escolha3 == 3 && escolha3 < 4)
                     {
                         while (Continuar() == 1)
                         {

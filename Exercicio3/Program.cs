@@ -28,7 +28,7 @@ namespace Exercicio3
 
                     Switch_Nivel_4(escolha_Nivel_4);
 
-                    if (escolha_Nivel_4 != 20)
+                    if (escolha_Nivel_4 != 20 && escolha_Nivel_4 < 20)
                     {
                         while (Continuar() == 1)
                         {
@@ -43,7 +43,7 @@ namespace Exercicio3
 
                     Switch_Nivel_5(escolha_Nivel_5);
 
-                    if (escolha_Nivel_5 != 16)
+                    if (escolha_Nivel_5 != 16 && escolha_Nivel_5 < 16)
                     {
                         while (Continuar() == 1)
                         {
@@ -58,7 +58,7 @@ namespace Exercicio3
 
                     Switch_Nivel_6(escolha_Nivel_6);
 
-                    if (escolha_Nivel_6 != 2)
+                    if (escolha_Nivel_6 != 2 && escolha_Nivel_6 < 2)
                     {
                         while (Continuar() == 1)
                         {
@@ -81,6 +81,7 @@ namespace Exercicio3
         static int Escolha_Nivel()
         {
             int opcao = 0;
+            Console.Clear();
             Console.WriteLine("=-= BEM-VINDO =-=\n");
             Console.WriteLine("1- Nível 4: Estruturas de Repetição");
             Console.WriteLine("2- Nível 5: Vetores e Matrizes");

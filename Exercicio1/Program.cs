@@ -35,7 +35,7 @@ namespace Exercicio1
 
                 Escolhendo(escolha);
 
-                if (escolha != 11)
+                if (escolha != 11 && escolha < 11)
                 {
                     while (Continuar() == 1)
                     {
