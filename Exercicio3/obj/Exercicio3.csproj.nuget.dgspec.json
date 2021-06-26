@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio3\\Exercicio3.csproj": {}
+    "C:\\Users\\Luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio3\\Exercicio3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio3\\Exercicio3.csproj": {
+    "C:\\Users\\Luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio3\\Exercicio3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio3\\Exercicio3.csproj",
+        "projectUniqueName": "C:\\Users\\Luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio3\\Exercicio3.csproj",
         "projectName": "Exercicio3",
-        "projectPath": "C:\\Users\\luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio3\\Exercicio3.csproj",
-        "packagesPath": "C:\\Users\\luscas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio3\\obj\\",
+        "projectPath": "C:\\Users\\Luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio3\\Exercicio3.csproj",
+        "packagesPath": "C:\\Users\\Luscas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\luscas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Luscas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -11,3 +11,16 @@ C:\Users\luscas\OneDrive\testeC#\Entra21-Projetos-Console\Exercicio2\obj\Debug\n
 C:\Users\luscas\OneDrive\testeC#\Entra21-Projetos-Console\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio2.dll
 C:\Users\luscas\OneDrive\testeC#\Entra21-Projetos-Console\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio2.pdb
 C:\Users\luscas\OneDrive\testeC#\Entra21-Projetos-Console\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio2.genruntimeconfig.cache
+C:\Users\Luscas\source\repos\Luscas-PandC\Entra21-NoturnoLucas-Consoles\Exercicio2\bin\Debug\netcoreapp3.1\Exercicio2.exe
+C:\Users\Luscas\source\repos\Luscas-PandC\Entra21-NoturnoLucas-Consoles\Exercicio2\bin\Debug\netcoreapp3.1\Exercicio2.deps.json
+C:\Users\Luscas\source\repos\Luscas-PandC\Entra21-NoturnoLucas-Consoles\Exercicio2\bin\Debug\netcoreapp3.1\Exercicio2.runtimeconfig.json
+C:\Users\Luscas\source\repos\Luscas-PandC\Entra21-NoturnoLucas-Consoles\Exercicio2\bin\Debug\netcoreapp3.1\Exercicio2.runtimeconfig.dev.json
+C:\Users\Luscas\source\repos\Luscas-PandC\Entra21-NoturnoLucas-Consoles\Exercicio2\bin\Debug\netcoreapp3.1\Exercicio2.dll
+C:\Users\Luscas\source\repos\Luscas-PandC\Entra21-NoturnoLucas-Consoles\Exercicio2\bin\Debug\netcoreapp3.1\Exercicio2.pdb
+C:\Users\Luscas\source\repos\Luscas-PandC\Entra21-NoturnoLucas-Consoles\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio2.csproj.AssemblyReference.cache
+C:\Users\Luscas\source\repos\Luscas-PandC\Entra21-NoturnoLucas-Consoles\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio2.AssemblyInfoInputs.cache
+C:\Users\Luscas\source\repos\Luscas-PandC\Entra21-NoturnoLucas-Consoles\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio2.AssemblyInfo.cs
+C:\Users\Luscas\source\repos\Luscas-PandC\Entra21-NoturnoLucas-Consoles\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Luscas\source\repos\Luscas-PandC\Entra21-NoturnoLucas-Consoles\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio2.dll
+C:\Users\Luscas\source\repos\Luscas-PandC\Entra21-NoturnoLucas-Consoles\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio2.pdb
+C:\Users\Luscas\source\repos\Luscas-PandC\Entra21-NoturnoLucas-Consoles\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio2.genruntimeconfig.cache

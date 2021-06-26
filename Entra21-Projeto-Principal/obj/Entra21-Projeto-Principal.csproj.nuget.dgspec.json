@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Entra21-Projeto-Principal\\Entra21-Projeto-Principal.csproj": {}
+    "C:\\Users\\Luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Entra21-Projeto-Principal\\Entra21-Projeto-Principal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Entra21-Projeto-Principal\\Entra21-Projeto-Principal.csproj": {
+    "C:\\Users\\Luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Entra21-Projeto-Principal\\Entra21-Projeto-Principal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Entra21-Projeto-Principal\\Entra21-Projeto-Principal.csproj",
+        "projectUniqueName": "C:\\Users\\Luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Entra21-Projeto-Principal\\Entra21-Projeto-Principal.csproj",
         "projectName": "Entra21-Projeto-Principal",
-        "projectPath": "C:\\Users\\luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Entra21-Projeto-Principal\\Entra21-Projeto-Principal.csproj",
-        "packagesPath": "C:\\Users\\luscas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Entra21-Projeto-Principal\\obj\\",
+        "projectPath": "C:\\Users\\Luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Entra21-Projeto-Principal\\Entra21-Projeto-Principal.csproj",
+        "packagesPath": "C:\\Users\\Luscas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Entra21-Projeto-Principal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\luscas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Luscas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,14 +28,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio1\\Exercicio1.csproj": {
-                "projectPath": "C:\\Users\\luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio1\\Exercicio1.csproj"
+              "C:\\Users\\Luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio1\\Exercicio1.csproj": {
+                "projectPath": "C:\\Users\\Luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio1\\Exercicio1.csproj"
               },
-              "C:\\Users\\luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio2\\Exercicio2.csproj": {
-                "projectPath": "C:\\Users\\luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio2\\Exercicio2.csproj"
+              "C:\\Users\\Luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio2\\Exercicio2.csproj": {
+                "projectPath": "C:\\Users\\Luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio2\\Exercicio2.csproj"
               },
-              "C:\\Users\\luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio3\\Exercicio3.csproj": {
-                "projectPath": "C:\\Users\\luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio3\\Exercicio3.csproj"
+              "C:\\Users\\Luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio3\\Exercicio3.csproj": {
+                "projectPath": "C:\\Users\\Luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio3\\Exercicio3.csproj"
               }
             }
           }
@@ -64,21 +64,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio1\\Exercicio1.csproj": {
+    "C:\\Users\\Luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio1\\Exercicio1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio1\\Exercicio1.csproj",
+        "projectUniqueName": "C:\\Users\\Luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio1\\Exercicio1.csproj",
         "projectName": "Exercicio1",
-        "projectPath": "C:\\Users\\luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio1\\Exercicio1.csproj",
-        "packagesPath": "C:\\Users\\luscas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio1\\obj\\",
+        "projectPath": "C:\\Users\\Luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio1\\Exercicio1.csproj",
+        "packagesPath": "C:\\Users\\Luscas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\luscas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Luscas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -118,21 +118,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio2\\Exercicio2.csproj": {
+    "C:\\Users\\Luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio2\\Exercicio2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio2\\Exercicio2.csproj",
+        "projectUniqueName": "C:\\Users\\Luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio2\\Exercicio2.csproj",
         "projectName": "Exercicio2",
-        "projectPath": "C:\\Users\\luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio2\\Exercicio2.csproj",
-        "packagesPath": "C:\\Users\\luscas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio2\\obj\\",
+        "projectPath": "C:\\Users\\Luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio2\\Exercicio2.csproj",
+        "packagesPath": "C:\\Users\\Luscas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\luscas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Luscas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -172,21 +172,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio3\\Exercicio3.csproj": {
+    "C:\\Users\\Luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio3\\Exercicio3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio3\\Exercicio3.csproj",
+        "projectUniqueName": "C:\\Users\\Luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio3\\Exercicio3.csproj",
         "projectName": "Exercicio3",
-        "projectPath": "C:\\Users\\luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio3\\Exercicio3.csproj",
-        "packagesPath": "C:\\Users\\luscas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio3\\obj\\",
+        "projectPath": "C:\\Users\\Luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio3\\Exercicio3.csproj",
+        "packagesPath": "C:\\Users\\Luscas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luscas\\source\\repos\\Luscas-PandC\\Entra21-NoturnoLucas-Consoles\\Exercicio3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\luscas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Luscas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -226,7 +226,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
